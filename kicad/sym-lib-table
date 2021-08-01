@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name chalkie)(type Legacy)(uri ${KIPRJMOD}/chalkie.lib)(options "")(descr ""))
+)
